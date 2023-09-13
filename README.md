@@ -22,6 +22,6 @@
 
   ##
 
-  ![Snake animation](https://github.com/sabrinaribeirosantos/sabrinaribeirosantos/blob/outhub-contribution-grid-snake.svg)
+ 
 
 
